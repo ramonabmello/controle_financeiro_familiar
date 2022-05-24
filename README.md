@@ -22,7 +22,7 @@ Para carregar os dados a serem analisados, no menu lateral selecione o mês a se
 ![image](https://user-images.githubusercontent.com/25406715/170107738-fb4ba2fd-5cc9-4c7a-b582-8b3168bea340.png)
 
 Após selecionar o mês Abril, esse deverá ser o resultado na página principal:
-![image](https://user-images.githubusercontent.com/25406715/170107967-b57b7daa-68d5-4b51-b5ef-da2be4f40417.png)
+![image](https://user-images.githubusercontent.com/25406715/170122666-f2c1b838-f587-4e01-b970-35944aae9e18.png)
 
 ---
 ### Você pode incluir seus próprios dados na aplicação.
